@@ -1,4 +1,4 @@
-# 🧑‍💻My R Project 
+# Projekti im në gjuhën R 🧑‍💻
 
 | Kolona 1 | Kolona 2 | Kolona 3 |
 |----------|----------|----------|
@@ -8,13 +8,13 @@
 
 : Tabele
 
-## **Course**: Gis 2023 
+## **Kursi**: Gis 2023 
 
-## **Name**: Erald Kerciku
+## **Emri**: Erald Kerciku
 
-## **Year**: 2023
+## **Viti**: 2023
 
-## **Major**: Geoinformatic Engineering
+## **Diploma**: Geoinformatic Engineering
 
 ## **OS**: Windows 10
 
