@@ -8,6 +8,8 @@
 |          |          |          |
 : Tabele
 
+![](git-comic.jpeg)
+
 ## **Kursi**: Gis 2023 
 
 ## **Emri**: Erald Kerciku
