@@ -18,5 +18,3 @@
 
 ## **OS**: Windows 10
 
-  git config --global user.email erald@live.com
-  git config --global user.name erald kerciku
