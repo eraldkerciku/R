@@ -8,9 +8,6 @@ Tabelë Ilustruese
 |          |          |          |
 |          |          |          |
 
-
-![](git-comic.jpeg)
-
 ## **Kursi**: Gis 2023
 
 ## **Emri**: Erald Kerciku
@@ -20,3 +17,5 @@ Tabelë Ilustruese
 ## **Diploma**: Geoinformatic Engineering
 
 ## **SO**: Windows 10 Pro
+
+![](git-comic.jpeg)
