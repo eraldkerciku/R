@@ -1,6 +1,6 @@
-# Projekt në gjuhën R 🧑‍💻
+# Projekt në gjuhën R - GIS 🧑‍💻
 
-: Tabelë Ilustruese
+Tabelë Ilustruese
 
 | Kolona 1 | Kolona 2 | Kolona 3 |
 |----------|----------|----------|
