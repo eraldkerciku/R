@@ -1,12 +1,13 @@
 # Projekti im në gjuhën R 🧑‍💻
 
+: Tabelë Ilustruese
+
 | Kolona 1 | Kolona 2 | Kolona 3 |
 |----------|----------|----------|
 | Libri    | Pc 10    |          |
 |          |          |          |
 |          |          |          |
 
-: Tabele
 
 ![](git-comic.jpeg)
 
@@ -18,4 +19,4 @@
 
 ## **Diploma**: Geoinformatic Engineering
 
-## **OS**: Windows 10
+## **SO**: Windows 10 Pro
