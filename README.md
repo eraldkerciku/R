@@ -1,4 +1,4 @@
-# Projekti im në gjuhën R 🧑‍💻
+# Projekt në gjuhën R 🧑‍💻
 
 : Tabelë Ilustruese
 
