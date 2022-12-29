@@ -20,6 +20,7 @@ Tabelë Ilustruese
 
 ![](git-comic.jpeg)
 
+<html>
 <style>
   :root {
     --penguin-size: 200px;
@@ -249,3 +250,4 @@ Tabelë Ilustruese
     <div class="beak-bottom"></div>
   </div>
 </div>
+  </html>
